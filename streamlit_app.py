@@ -2,5 +2,7 @@
 import streamlit
 
 streamlit.title('My Parents New Healthy Dinner')
-   Breakfast menu
-   Omega 3 
+streamlit.header('Breakfast Menu')
+streamlit.text('Omega 3 & blueberry')
+streamlit.text('healthy herbalife shake')
+streamlit.text('supplements')
